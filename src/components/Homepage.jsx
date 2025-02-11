@@ -195,15 +195,15 @@ const Homepage = () => {
                 <div className="testimonials-container">
                     <div className="testimonial">
                         <p>"This platform has been a game-changer for my career. My mentor provided invaluable advice and support."</p>
-                        <h4>- Jane Doe</h4>
+                        <h4>Name</h4>
                     </div>
                     <div className="testimonial">
                         <p>"I found the perfect mentor who helped me navigate my career path and achieve my goals."</p>
-                        <h4>- John Smith</h4>
+                        <h4>Name</h4>
                     </div>
                     <div className="testimonial">
                         <p>"The mentorship I received was top-notch. I highly recommend this platform to anyone looking for guidance."</p>
-                        <h4>- Emily Johnson</h4>
+                        <h4>Name</h4>
                     </div>
                 </div>
             </section>
@@ -214,18 +214,18 @@ const Homepage = () => {
                 <div className="stories-container">
                     <div className="story">
                         <img src="src/assets/success1.jpg" alt="Success Story 1" />
-                        <h3>Anna's Journey</h3>
+                        <h3>Journey1</h3>
                         <p>From a novice to a data scientist at a leading tech company.</p>
                     </div>
                     <div className="story">
                         <img src="src/assets/success2.jpg" alt="Success Story 2" />
-                        <h3>Mark's Achievement</h3>
-                        <p>How Mark transitioned from a junior developer to a senior engineer.</p>
+                        <h3>Journey2</h3>
+                        <p>transitioned from a junior developer to a senior engineer.</p>
                     </div>
                     <div className="story">
                         <img src="src/assets/success3.jpg" alt="Success Story 3" />
-                        <h3>Linda's Growth</h3>
-                        <p>Linda's journey from a marketing intern to a marketing manager.</p>
+                        <h3>Journey3</h3>
+                        <p>Journey from a marketing intern to a marketing manager.</p>
                     </div>
                 </div>
             </section>
